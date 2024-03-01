@@ -1,0 +1,6 @@
+Gildong Hong	2004303077	Computer Engineering	1999	01187651234
+Jeong HoYong	2020971027	Elementary Education	1997	01071559043
+Jeong SuYong	2020047900	International Logistics	2001	01035999043
+Kim HeeKwon	2020010522	Computer Science	2001	01041577042
+Lisa Simpson	2006303001	Computer Engineering	2000	01012345678
+Shin GyuHo	2020010101	Material Engineering	2002	01021874630
